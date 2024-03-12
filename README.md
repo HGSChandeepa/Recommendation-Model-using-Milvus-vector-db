@@ -1,8 +1,8 @@
-**Title: Recommendation Model Using Milvus Vector Database**
+**Title: Recommendation Model Using Milvus Vector Database with Docker**
 
 ## Overview
 
-This repository contains an implementation of a recommendation model using Milvus, a vector database designed to store and search high-dimensional vectors efficiently. The recommendation model utilizes the capabilities of Milvus to perform fast similarity searches, enabling efficient retrieval of similar items based on user preferences or item attributes.
+This repository contains an implementation of a recommendation model using Milvus, a vector database designed to store and search high-dimensional vectors efficiently, deployed with Docker. The recommendation model leverages the capabilities of Milvus to perform fast similarity searches, enabling efficient retrieval of similar items based on user preferences or item attributes.
 
 ## Features
 
@@ -11,7 +11,7 @@ This repository contains an implementation of a recommendation model using Milvu
 - Supports both user-based and item-based recommendation strategies.
 - Provides easy-to-use APIs for integrating the recommendation model into existing applications.
 - Supports scalability for handling large datasets and user bases.
-- Includes example scripts and notebooks for demonstration and experimentation.
+- Dockerized deployment for easy setup and management.
 
 ## Installation
 
@@ -21,10 +21,16 @@ This repository contains an implementation of a recommendation model using Milvu
    git clone https://github.com/yourusername/recommendation-model-milvus.git
    ```
 
-2. Install dependencies:
+2. Navigate to the project directory:
 
    ```bash
-   pip install -r requirements.txt
+   cd recommendation-model-milvus
+   ```
+
+3. Build and run the Docker container:
+
+   ```bash
+   docker-compose up --build
    ```
 
 ## Usage
