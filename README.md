@@ -18,7 +18,7 @@ This repository contains an implementation of a recommendation model using Milvu
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/recommendation-model-milvus.git
+   git clone https://github.com/HGSChandeepa/recommendation-model-milvus.git
    ```
 
 2. Navigate to the project directory:
