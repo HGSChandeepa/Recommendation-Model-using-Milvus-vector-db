@@ -72,6 +72,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, feel free to contact [your@email.com](mailto:your@email.com).
+For any questions or inquiries, feel free to contact saminchandeepa@gmail.com.
 
 Happy recommending! 🚀
