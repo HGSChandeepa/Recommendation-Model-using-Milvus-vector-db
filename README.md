@@ -1,5 +1,7 @@
 **Title: Recommendation Model Using Milvus Vector Database with Docker**
 
+**Read About Vector Databases** :https://zilliz.com/authors/Samin_Chandeepa
+
 ## Overview
 
 This repository contains an implementation of a recommendation model using Milvus, a vector database designed to store and search high-dimensional vectors efficiently, deployed with Docker. The recommendation model leverages the capabilities of Milvus to perform fast similarity searches, enabling efficient retrieval of similar items based on user preferences or item attributes.
